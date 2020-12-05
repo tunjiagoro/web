@@ -1,0 +1,19 @@
+body {
+  background-color: lightgrey;
+}
+h1 {
+  Color: darkcyan;  font-style: normal; font-family: georgia ;
+}
+h3{
+  font-style: normal; font-family: georgia; color: darkcyan; text-shadow: 10px;
+}
+hr{
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 8px;
+  height: 0;
+  width: 20%;
+
+
+}
